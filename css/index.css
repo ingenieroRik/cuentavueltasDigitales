@@ -257,23 +257,23 @@ body{
             justify-content: center;
             flex-wrap: wrap;
             gap:60px;
+
             a{
                 text-decoration: none;
                 color: #ffffff;
                
                 .foto{
                     width:300px;
-                    height: 300px;
-                   object-fit: contain;
+                    height: 400px;
                     position: relative;
                     overflow: hidden;
                     border-radius: 10px;
                     transition: all 0.5s ease;
-                    object-fit: cover;
+                   
                     .imgTendencia{
                         width: 100%;
                         height: 100%;
-                      
+                        object-fit: contain;
                         border-radius: 10px;
                     }
                   
@@ -298,7 +298,7 @@ body{
                     }
                     &:hover{
                        box-shadow: 0 0 30px #9f3648cd;
-                       transform: scale(1.1);
+                       transform: scale(0.95);
                       
                     }
                     &:hover h4 {
@@ -313,44 +313,19 @@ body{
                         width: 100%;
                         height: 100%;
                         border-radius: 10px;
-                        background-color: var(--color-principal); /* Color rojo transparente */
+                        background-color: var(--color-principal);
                         z-index: 1; /* Para asegurarse de que esté sobre la imagen */
                     }
                 }
             }
-          
+        
         }
-        .boton{
-            border: 1px solid white;
-            box-sizing: content-box;
-            margin-top:50px;
-            margin-left:20px;
-            background-color:var(--color-principal);
-            color: #ffffff;
-            padding: 1rem 1rem;
-            border-radius: 5px;
-            font-size: 1rem;
-            font-weight: 500;
-            text-decoration: none;
-            margin-bottom:60px;
-             /* Agregar efecto de botón presionado */
-             transition: transform 0.3s, box-shadow 0.3s;
-             &:hover {
-                 background-color: var(--color-principal);
-                 transform: scale(0.95);
-                 box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
-             }
-
-        }
-
-     
+        
+    }
+  
     }
 
-   
-    }
-
-    .masTendencias{
-       
+    .masTendencias{     
         summary{
            font-size: 3rem;
             margin-top: 20px;
@@ -359,8 +334,6 @@ body{
           }
           
         }
-
-
     .fotosAclamadas{
         width:80%;
         margin: 0 auto;
@@ -383,9 +356,8 @@ body{
             .fotoItem{
                 border-radius: 25px;
                 width: 400px;
-                height: 400px;
-               object-fit: contain;
-                min-width: 300px;
+                height: 300px;
+                min-width: 370px;
                 object-fit: cover;
                 font-size: 20px;
                 cursor: pointer;
@@ -398,7 +370,7 @@ body{
                     border-radius: 5%;
                     width: 100%;
                     height: 100%;
-               
+                    object-fit: cover;
                 }
                 
             }
@@ -491,7 +463,7 @@ body{
                     margin-left: 10px;
                     .imgAclamada{
                         width: 100%;
-                        height: 80%;
+                        height: 90%;
                     }
                 }
             }
@@ -504,7 +476,7 @@ body{
 /*ESTILOS FOOTER    --  PARA PC DE ESCRITORIO */
 .footer{
     background-color: blue;
-    background:-webkit-linear-gradient(top, rgb(50, 50, 204), rgb(94, 163, 175));  
+    background:-webkit-linear-gradient(top,  rgb(94, 163, 175),rgb(50, 50, 204));  
     color:#ffffff;
     height: 15vh;
     display: flex;

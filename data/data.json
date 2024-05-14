@@ -1,0 +1,178 @@
+[
+{ 
+    "id" : 1,
+    "img_url" : "/assets/img/f1.jpg",
+    "name" : "cuentavueltas 4 vias con semaforo"
+},
+{ 
+    "id" : 2,
+    "img_url" : "/assets/img/f2.jpg",
+    "name" : "cuentavueltas 4 vias con semaforo"
+},
+{ 
+    "id" : 3,
+    "img_url" : "/assets/img/f3.jpg",
+    "name" : "con cronometro vista superior"
+},
+{ 
+    "id" : 4,
+    "img_url" : "/assets/img/f4.jpg",
+    "name" : "6 vias con semaforo y cronometro"
+},
+{ 
+    "id" : 5,
+    "img_url" : "/assets/img/f5.jpg",
+    "name" : "6 vias con crono vista superior"
+},
+{ 
+    "id" : 6,
+    "img_url" : "/assets/img/f6.jpg",
+    "name" : "2 , 3  y 4 vias base"
+},
+{ 
+    "id" : 7,
+    "img_url" : "/assets/img/f7.jpg",
+    "name" : "2 , 3  y 4 vias base"
+},
+{ 
+    "id" : 8,
+    "img_url" : "/assets/img/f8.jpg",
+    "name" : "cuentavueltas 4 vias con semaforo"
+},
+{ 
+    "id" : 9,
+    "img_url" : "/assets/img/f9.jpg",
+    "name" : "cuentavueltas 4 vias con semaforo"
+},
+{ 
+    "id" : 10,
+    "img_url" : "/assets/img/f10.jpg",
+    "name" : "2 vias tipo arco para scx"
+},
+{ 
+    "id" : 11,
+    "img_url" : "/assets/img/f11.jpg",
+    "name" : "2 vias tipo arco para scx"
+},
+{ 
+    "id" : 12,
+    "img_url" : "/assets/img/f12.jpg",
+    "name" : "4 vias con semaforo tipo bandera"
+},
+{ 
+    "id" : 13,
+    "img_url" : "/assets/img/f13.jpg",
+    "name" : "2 , 3  y 4 vias base"
+},
+{ 
+    "id" : 14,
+    "img_url" : "/assets/img/f14.jpg",
+    "name" : "cuentavueltas 4 vias especial con contador"
+},
+{ 
+    "id" : 15,
+    "img_url" : "/assets/img/f15.jpg",
+    "name" : "4 vias tipo bandera con crono"
+},
+{ 
+    "id" : 16,
+    "img_url" : "/assets/img/f16.jpg",
+    "name" : "4 vias con semaforo y crono invertido"
+},
+{ 
+    "id" : 17,
+    "img_url" : "/assets/img/f17.jpg",
+    "name" : "4 vias con semaforo y crono invertido"
+},
+{ 
+    "id" : 18,
+    "img_url" : "/assets/img/f18.jpg",
+    "name" : "2 vias con semaforo y crono tipo arco"
+},
+{ 
+    "id" : 19,
+    "img_url" : "/assets/img/f19.jpg",
+    "name" : "2 vias con semaforo y crono tipo arco"
+},
+{ 
+    "id" : 20,
+    "img_url" : "/assets/img/f20.jpg",
+    "name" : "6 vias conectable a PC"
+},
+{ 
+    "id" : 21,
+    "img_url" : "/assets/img/f21.jpg",
+    "name" : "4 vias con semaforo tipo bandera"
+},
+{ 
+    "id" : 22,
+    "img_url" : "/assets/img/f22.jpg",
+    "name" : "6 vias con semaforo y crono tipo bandera"
+},
+{ 
+    "id" : 23,
+    "img_url" : "/assets/img/f23.jpg",
+    "name" : "4 vias con semaforo tipo bandera"
+},
+{ 
+    "id" : 24,
+    "img_url" : "/assets/img/f24.jpg",
+    "name" : "4 vias con semaforo tipo bandera"
+},
+{ 
+    "id" : 25,
+    "img_url" : "/assets/img/f25.jpg",
+    "name" : "cuentavueltas 4 vías con semáforo tipo arco"
+},
+{ 
+    "id" : 26,
+    "img_url" : "/assets/img/f26.jpg",
+    "name" : "cuentavueltas 4 vías con semáforo tipo arco"
+},
+{ 
+    "id" : 27,
+    "img_url" : "/assets/img/f27.jpg",
+    "name" : "cuentavueltas 4 vías con semáforo tipo arco"
+},
+{ 
+    "id" : 28,
+    "img_url" : "/assets/img/f28.jpg",
+    "name" : "cuentavueltas 4 vías con semáforo"
+},
+{ 
+    "id" : 29,
+    "img_url" : "/assets/img/f29.jpg",
+    "name" : "4 vías con semáforo pistas por color"
+},
+{ 
+    "id" : 30,
+    "img_url" : "/assets/img/f30.jpg",
+    "name" : "2 vías con semáforo"
+},
+{ 
+    "id" : 31,
+    "img_url" : "/assets/img/f1.jpg",
+    "name" : "2 vías base torre"
+},
+{ 
+    "id" : 32,
+    "img_url" : "/assets/img/f31.jpg",
+    "name" : "cronómetro 4 vías"
+},
+{ 
+    "id" : 33,
+    "img_url" : "/assets/img/f32.jpg",
+    "name" : "4 vías con cuatro cronos"
+},
+{ 
+    "id" : 34,
+    "img_url" : "/assets/img/f33.jpg",
+    "name" : "6 vías conectable a PC"
+},
+{ 
+    "id" : 35,
+    "img_url" : "/assets/img/f34.jpg",
+    "name" : "4 vías conectable a PC"
+}
+
+]
