@@ -1,6 +1,6 @@
 *{
-
-    --color-principal:blue;
+    --color-principal: #0cf;
+  
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -38,7 +38,7 @@ body{
 /*ESTILOS ESCRITORIO PARA PAGINA Registrarse */
 .bodyRegistrarse{
     height: 100vh;
-    background:linear-gradient(to right top, #24242473,#24242473),url("../assets/img/kiss_6.jpeg");
+    background:linear-gradient(to right top, #24242473,#24242473),url("../assets/img/Cuentavueltas.jpeg");
     background-size: cover;
     background-position: center;
     .headerRegistrarse{
