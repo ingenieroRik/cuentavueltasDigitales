@@ -149,7 +149,7 @@ body{
 .main{
     .sectionPrincipal{
         color:white;
-        background:linear-gradient(to right top, #918c8c8a, #918a8a8a), url(../assets/img/Cuentavueltas.jpg);
+        background:linear-gradient(to right top, #918c8c8a, #918a8a8a), url(../assets/img/Cuentavueltas.jpeg);
         background-size: cover;
         background-position: center;
         height: 90vh;

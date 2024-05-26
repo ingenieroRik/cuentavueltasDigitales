@@ -151,28 +151,42 @@
 },
 { 
     "id" : 31,
-    "img_url" : "/assets/img/f1.jpg",
+    "img_url" : "/assets/img/f31.jpg",
     "name" : "2 vías base torre"
 },
 { 
     "id" : 32,
-    "img_url" : "/assets/img/f31.jpg",
+    "img_url" : "/assets/img/f32.jpg",
     "name" : "cronómetro 4 vías"
 },
 { 
     "id" : 33,
-    "img_url" : "/assets/img/f32.jpg",
+    "img_url" : "/assets/img/f33.jpg",
     "name" : "4 vías con cuatro cronos"
 },
 { 
     "id" : 34,
-    "img_url" : "/assets/img/f33.jpg",
+    "img_url" : "/assets/img/f34.jpg",
     "name" : "6 vías conectable a PC"
 },
 { 
     "id" : 35,
-    "img_url" : "/assets/img/f34.jpg",
+    "img_url" : "/assets/img/f35.jpg",
+    "name" : "4 vías conectable a PC"
+},
+{ 
+    "id" : 36,
+    "img_url" : "/assets/img/f36.jpg",
+    "name" : "4 vías conectable a PC"
+},
+{ 
+    "id" : 37,
+    "img_url" : "/assets/img/f37.jpg",
+    "name" : "4 vías conectable a PC"
+},
+{ 
+    "id" : 38,
+    "img_url" : "/assets/img/f38.jpg",
     "name" : "4 vías conectable a PC"
 }
-
 ]
